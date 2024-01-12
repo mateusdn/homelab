@@ -1,6 +1,5 @@
 # HomeLab Setup
 
-Configurando com:
 * Windows Server
 * Hyper-V
 * Active Directory
