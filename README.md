@@ -1,2 +1,2 @@
-# Configurando um HomeLab
-com windows server e active directory
+#HomeLab Setup
+Com windows server e active directory, DHCP e DNS
