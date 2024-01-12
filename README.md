@@ -1,5 +1,7 @@
 # HomeLab Setup
 
+<img src="a.png" />
+
 * [Windows Server](#windows-server)
 * Hyper-V
 * Active Directory
