@@ -9,5 +9,5 @@
 Esses componentes formam a base sólida para a infraestrutura de rede, proporcionando gerenciamento centralizado, distribuição dinâmica de endereços IP, virtualização e resolução de nomes eficientes.
 
 
-## Windows Server
+## Instalação e Configuração do Windows Server:
 
