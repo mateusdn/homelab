@@ -10,6 +10,6 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
 
 ## Virtualização com Hyper-V
 
-
 ## Instalação e Configuração do Windows Server:
 
+## Configuração do Active Directory:
