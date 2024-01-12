@@ -1,2 +1,2 @@
 # HomeLab Setup
-Com windows server e active directory, DHCP e DNS
+Com Windows Server e Active Directory, DHCP e DNS
