@@ -11,9 +11,12 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
 *  DNS
 
 ## Virtualização com Hyper-V:
-* Você pode baixar o Hyper-V através do PowerShell Com permissões administrativas usando o comando:
+* Você pode baixar o Hyper-V através do PowerShell com permissões administrativas usando o comando:
   
   * `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All`
+ 
+* Abrindo o PowerShell após reiniciar a maquina, você pode trocar o nome padrão do Windows seguindo os passos:
+  * teste -> teste
 
 ## Instalação e Configuração do Windows Server:
 
