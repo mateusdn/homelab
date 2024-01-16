@@ -18,6 +18,10 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
 * Trocando o nome do servidor:
   * Meu Computador -> Propriedades -> Renomear este Computador -> Reinicie a máquina
   * print-nome-comp
+ 
+* Comutadores Virtuais (virtual switches):
+  *  
+
 
 
 
