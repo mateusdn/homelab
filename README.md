@@ -44,7 +44,9 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
  
 ### Configurando a Máquina Virtual
 
-*
+* print-tela-config.
+
+* 
 
 ## Instalação e Configuração do Windows Server:
 
