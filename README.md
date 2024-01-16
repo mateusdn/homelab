@@ -32,12 +32,14 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
 
 * ISO Windows Server 2022  -link.
 
-
-
-
 ## Instalação e Configuração do Windows Server:
 
+### Instalando o Windows Server
+*print-
 
+passo a passo
+
+### Configurando o Windows Server
 
 ## Configuração do Active Directory:
 
