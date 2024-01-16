@@ -32,6 +32,20 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
 
 * ISO Windows Server 2022  -link.
 
+* print-nov-vm
+
+* Ao criar uma maquina virtual no Hyper-V, você deve fazer as seguintes configurações:
+  
+  * Especificar o Nome e Local da máquina
+  * Especificar Geração
+  * Atribuir memória
+  * Configurar Rede
+  * Conectar o Disco Rígido Virtual
+ 
+### Configurando a Máquina Virtual
+
+*
+
 ## Instalação e Configuração do Windows Server:
 
 ### Instalando o Windows Server
