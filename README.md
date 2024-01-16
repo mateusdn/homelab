@@ -21,15 +21,23 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
  
 ### Comutadores Virtuais (Virtual Switches):
 * Eles permitem a comunicação entre maquinas virtuais e/ou com redes físicas, facilitando a criação e gerenciamento de redes virtuais em ambientes de virtualização.
+  
+* Tipos de Comutadores:
+  
+  * External Switch -
+  * Internal Switch -
+  * Private Switch - 
 
+### Criando a Primeira Máquina Virtual
 
+* ISO Windows Server 2022  -link.
 
 
 
 
 ## Instalação e Configuração do Windows Server:
 
-* ISO Windows Server 2022  -link.
+
 
 ## Configuração do Active Directory:
 
