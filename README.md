@@ -16,7 +16,7 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
   * `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All`
  
 * Abrindo o PowerShell após reiniciar a maquina, você pode trocar o nome padrão do Windows seguindo os passos:
-  * teste -> teste
+  * Meu Computador -> Propriedades -> Renomear este Computador -> Reinicie a máquina 
 
 ## Instalação e Configuração do Windows Server:
 
