@@ -20,9 +20,9 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
   * print-
  
 ### Comutadores Virtuais (Virtual Switches):
-* print-
-* eles permitem a comunicação entre maquinas virtuais e/ou com redes físicas, roteando o tráfego de rede entre as VMs ou entre as VMs e a rede física, eles facilitam a criação e gerenciamento de redes virtuais em ambientes de virtualização.
-  
+* Eles permitem a comunicação entre maquinas virtuais e/ou com redes físicas, facilitando a criação e gerenciamento de redes virtuais em ambientes de virtualização.
+* 
+
 
 
 
