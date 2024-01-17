@@ -30,7 +30,7 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
 
 ### Criando e Configurando a Primeira Máquina Virtual
 
-* ISO Windows Server 2022  -link.
+*  [ISO Windows Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver?wa=wsignin1.0)
 
 * <img src="p-vm.png" />
 
