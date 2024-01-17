@@ -17,7 +17,7 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
  
 * Trocando o nome do servidor:
   * Meu Computador -> Propriedades -> Renomear este Computador -> Reinicie a máquina
-  * print-
+   * <img src="p-nome.png" />
  
 ### Comutadores Virtuais (Virtual Switches):
 * Eles permitem a comunicação entre maquinas virtuais e/ou com redes físicas, facilitando a criação e gerenciamento de redes virtuais em ambientes de virtualização.
