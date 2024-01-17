@@ -61,7 +61,9 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
 ### Instalando o Windows Server
 *print-
 
-passo a passo
+* Após a instalação do sistema operacional, você terá acesso ao Gerenciador do Servidor.
+
+  * O Gerenciador do Servidor é uma ferramenta que oferece uma interface centralizada para configurar, gerenciar e monitorar várias funções e recursos em um servidor. Ele facilita a administração do servidor, especialmente em ambientes onde múltiplas funções e serviços estão em execução.  
 
 ### Configurando o Windows Server
 
