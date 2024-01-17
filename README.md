@@ -55,9 +55,9 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
   * Geração da Máquina Virtual: Em algumas versões do Hyper-V, você pode converter uma VM de uma geração para outra.
  
 
-* print-tela-config.
+* <img src="p-config.png" />
 
-* 
+  
 
 ## Instalação e Configuração do Windows Server:
 
