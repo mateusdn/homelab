@@ -28,21 +28,23 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
   * Internal Switch -
   * Private Switch - 
 
-### Criando a Primeira Máquina Virtual
+### Criando e Configurando a Primeira Máquina Virtual
 
 * ISO Windows Server 2022  -link.
 
 * print-nov-vm
 
-* Ao criar uma maquina virtual no Hyper-V, você deve fazer as seguintes configurações:
+* Após criar uma máquina virtual no Hyper-V, você ainda pode ajustar várias configurações para atender às suas necessidades:
   
-  * Especificar o Nome e Local da máquina
-  * Especificar Geração
-  * Atribuir memória
-  * Configurar Rede
-  * Conectar o Disco Rígido Virtual
+  * Processador: Ajustar o número de processadores virtuais alocados à VM.
+  * Memória: Modificar a quantidade de RAM atribuída à VM.
+  * Dispositivos de Inicialização: Alterar a ordem de inicialização e selecionar discos virtuais ou outros dispositivos.
+  * Rede: Modificar a configuração de rede associada à VM, como trocar o switch virtual ao qual a VM está conectada.
+  * Armazenamento: Adicionar, remover ou modificar discos virtuais, além de ajustar configurações avançadas, como snapshots.
+  * Integração com Serviços: Habilitar ou desabilitar a integração com serviços, como a integração do sistema operacional convidado, cópia e cola, e redirecionamento de área de transferência.
+  * Configurações de Segurança: Modificar configurações de segurança, como habilitar ou desabilitar o "Secure Boot" ou configurar políticas de máquinas virtuais protegidas.
+  * Geração da Máquina Virtual: Em algumas versões do Hyper-V, você pode converter uma VM de uma geração para outra.
  
-### Configurando a Máquina Virtual
 
 * print-tela-config.
 
