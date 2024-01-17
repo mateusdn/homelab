@@ -67,6 +67,8 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
  
   * print server manager
  
+  * 
+ 
     
 
 ### Configurando o Windows Server
