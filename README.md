@@ -24,9 +24,9 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
   
 * Tipos de Comutadores:
   
-  * External Switch -
-  * Internal Switch -
-  * Private Switch - 
+  * External Switch - permite que máquinas virtuais se comuniquem com redes físicas e outros dispositivos fora do ambiente virtual.
+  * Internal Switch - é utilizado para comunicação exclusiva entre máquinas virtuais em um host específico, mas não têm acesso direto à rede física externa.
+  * Private Switch - é semelhante ao interno, mas não permite qualquer comunicação com a rede física externa. Ele cria uma rede isolada apenas para as VMs no host.
 
 ### Criando e Configurando a Primeira Máquina Virtual
 
