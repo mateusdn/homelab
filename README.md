@@ -32,7 +32,7 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
 
 * ISO Windows Server 2022  -link.
 
-* print-nov-vm
+* <img src="p-vm.png" />
 
 * Após criar uma máquina virtual no Hyper-V, você ainda pode ajustar várias configurações para atender às suas necessidades:
   
