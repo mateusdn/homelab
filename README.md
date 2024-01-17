@@ -16,7 +16,9 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
   * `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All`
  
 * Trocando o nome do servidor:
+  
   * Meu Computador -> Propriedades -> Renomear este Computador -> Reinicie a máquina
+  
    * <img src="p-nome.png" />
  
 ### Comutadores Virtuais (Virtual Switches):
@@ -32,7 +34,7 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
 
 ### Criando e Configurando a Primeira Máquina Virtual
 
-*  [ISO Windows Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver?wa=wsignin1.0)
+*  Você vai precisar de uma [ISO Windows Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver?wa=wsignin1.0)
 
 * <img src="p-vm.png" />
 
