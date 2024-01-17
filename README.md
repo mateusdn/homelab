@@ -71,7 +71,7 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
  
     
 
-### Configurando o Windows Server
+### Configurando o Servidor Local do Windows Server
 
 ## Configuração do Active Directory:
 
