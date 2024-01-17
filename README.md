@@ -55,11 +55,6 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
   * Configurações de Segurança: Modificar configurações de segurança, como habilitar ou desabilitar o "Secure Boot" ou configurar políticas de máquinas virtuais protegidas.
     
   * Geração da Máquina Virtual: Em algumas versões do Hyper-V, você pode converter uma VM de uma geração para outra.
- 
-
-* <img src="p-config.png" />
-
-  
 
 ## Instalação e Configuração do Windows Server:
 
