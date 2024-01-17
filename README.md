@@ -6,9 +6,9 @@ Esses componentes formam a base sólida para a infraestrutura de rede, proporcio
 
 * [Hyper-V](#Virtualização-com-Hyper-V)
 * [Windows Server](#Instalação-e-Configuração-do-Windows-Server)
-* Active Directory
-*  DHCP
-*  DNS
+* [Active Directory](#Configuração-do-Active-Directory)
+* [DHCP](#Implantação-do-Serviço-DHCP)
+* [DNS](#Instalação-e-Configuração-do-Windows-Server)
 
 ## Virtualização com Hyper-V:
 * Você pode baixar o Hyper-V através do PowerShell com permissões administrativas usando o comando:
