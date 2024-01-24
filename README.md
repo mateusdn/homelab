@@ -72,7 +72,7 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * Alterar o nome do servidor no Server Manager pode ser necessário para seguir padrões de nomenclatura, ajustar à reestruturação da rede, manter a consistência, resolver conflitos de nomes, atender a políticas de segurança e compliance, ou refletir mudanças na infraestrutura e hardware.
 
-* <img src="wsv.png" /> 
+* <img src="s-nome.png" /> 
     
 
 ### Configurando o Servidor Local do Windows Server
