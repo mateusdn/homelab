@@ -72,8 +72,13 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * Alterar o nome do servidor no Server Manager pode ser necessário para seguir padrões de nomenclatura, ajustar à reestruturação da rede, manter a consistência, resolver conflitos de nomes, atender a políticas de segurança e compliance, ou refletir mudanças na infraestrutura e hardware.
 
-* <img src="s-nome.png" /> 
-    
+* <img src="s-nome.png" />
+
+### Configurando o IP da VM
+
+* A utilização de IPs fixos em máquinas virtuais proporciona estabilidade na configuração, facilita a identificação e a acessibilidade consistente, além de simplificar a administração, integração com redes locais e evitar conflitos de IP.
+
+* <img src="ip.png" />
 
 ### Configurando o Servidor Local do Windows Server
 
