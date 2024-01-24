@@ -67,11 +67,12 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 * Após a instalação do sistema operacional, você terá acesso ao Gerenciador do Servidor.
 
   * O Gerenciador do Servidor é uma ferramenta que oferece uma interface centralizada para configurar, gerenciar e monitorar várias funções e recursos em um servidor. Ele facilita a administração do servidor, especialmente em ambientes onde múltiplas funções e serviços estão em execução.
- 
-* <img src="wsv.png" />
- 
 
- 
+* <img src="wsv.png" />
+
+* Alterar o nome do servidor no Server Manager pode ser necessário para seguir padrões de nomenclatura, ajustar à reestruturação da rede, manter a consistência, resolver conflitos de nomes, atender a políticas de segurança e compliance, ou refletir mudanças na infraestrutura e hardware.
+
+* <img src="wsv.png" /> 
     
 
 ### Configurando o Servidor Local do Windows Server
