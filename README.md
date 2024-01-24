@@ -132,6 +132,6 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * O Active Directory é essencial para a administração centralizada de identidades, autenticação segura, aplicação de políticas, gestão de recursos e segurança em ambientes Windows, contribuindo para a eficiência e integridade da infraestrutura de TI, você pode acessa-lo através dessas opções, dentro do Dashboard do Server Manager:
 
-  * <img src="nforest.png" />
+  * <img src="uac.png" />
 
 ## Implantação do Serviço DHCP:
