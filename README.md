@@ -130,7 +130,7 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 ## Configuração do Active Directory:
 
-* O Active Directory é essencial para a administração centralizada de identidades, autenticação segura, aplicação de políticas, gestão de recursos e segurança em ambientes Windows, contribuindo para a eficiência e integridade da infraestrutura de TI, você pode acessa-lo através dessas opções, dentro do Dashboard do Server Manager:
+* O Active Directory é essencial para a administração centralizada de identidades, autenticação segura, aplicação de políticas, gestão de recursos e segurança em ambientes Windows, contribuindo para a eficiência e integridade da infraestrutura de TI. Você pode acessá-lo através dessas opções, dentro do Dashboard do Server Manager:
 
   * <img src="uac.png" />
 
