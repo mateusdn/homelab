@@ -86,7 +86,7 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * <img src="upd.png" />
 
-### Configurando o Servidor Local do Windows Server
+### Configurando o Servidor Local a Controlador de Domínio
 
 ## Configuração do Active Directory:
 
