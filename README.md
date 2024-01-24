@@ -74,7 +74,7 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * <img src="s-nome.png" />
 
-### Configurando o IP da VM
+### Configurando o Ip da Máquina Virtual
 
 * A utilização de IPs fixos em máquinas virtuais proporciona estabilidade na configuração, facilita a identificação e a acessibilidade consistente, além de simplificar a administração, integração com redes locais e evitar conflitos de IP.
 
