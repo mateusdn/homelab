@@ -23,6 +23,8 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
  
 ### Comutadores Virtuais (Virtual Switches):
 * Eles permitem a comunicação entre maquinas virtuais e/ou com redes físicas, facilitando a criação e gerenciamento de redes virtuais em ambientes de virtualização.
+
+* <img src="gcv.png" />
   
 * Tipos de Comutadores:
   
