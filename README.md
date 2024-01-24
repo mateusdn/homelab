@@ -27,7 +27,7 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 ### Comutadores Virtuais (Virtual Switches):
 * Eles permitem a comunicação entre maquinas virtuais e/ou com redes físicas, facilitando a criação e gerenciamento de redes virtuais em ambientes de virtualização.
 
-* <img src="gcv.png" />
+  * <img src="gcv.png" />
   
 * Tipos de Comutadores:
   
@@ -41,7 +41,7 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 *  Você vai precisar de uma [ISO Windows Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver?wa=wsignin1.0)
 
-* <img src="p-vm.png" />
+  * <img src="p-vm.png" />
 
 * Após criar uma máquina virtual no Hyper-V, você ainda pode ajustar várias configurações para atender às suas necessidades:
   
@@ -65,13 +65,13 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 ### Instalando o Windows Server
 
-* <img src="wsi.png" />
+  * <img src="wsi.png" />
 
 * Após a instalação do sistema operacional, você terá acesso ao Gerenciador do Servidor.
 
   * O Gerenciador do Servidor é uma ferramenta que oferece uma interface centralizada para configurar, gerenciar e monitorar várias funções e recursos em um servidor. Ele facilita a administração do servidor, especialmente em ambientes onde múltiplas funções e serviços estão em execução.
 
-* <img src="wsv.png" />
+  * <img src="wsv.png" />
 
 * Alterar o nome do servidor no Server Manager pode ser necessário para seguir padrões de nomenclatura, ajustar à reestruturação da rede, manter a consistência, resolver conflitos de nomes, atender a políticas de segurança e compliance, ou refletir mudanças na infraestrutura e hardware.
 
@@ -81,19 +81,36 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * A utilização de IPs fixos em máquinas virtuais proporciona estabilidade na configuração, facilita a identificação e a acessibilidade consistente, além de simplificar a administração, integração com redes locais e evitar conflitos de IP.
 
-* <img src="ip.png" />
+  * <img src="ip.png" />
 
 ### Atualizando com Windows Update
 
 * Manter o Server Manager atualizado é essencial para segurança, estabilidade e desempenho, com correções de segurança, melhorias e suporte a novos recursos, assegurando uma gestão eficiente da infraestrutura Windows.
 
-* <img src="upd.png" />
+  * <img src="upd.png" />
 
 ### Configurando o Servidor Local a Controlador de Domínio
 
 * No Dashboard do Server Manager, clique em "Adicionar Funções e Recursos" e siga o assistente de instalação.
 
-* 
+  * <img src="roles.png" />
+
+* Selecione "Serviços de Domínio Active Directory" e adicione as ferramentas de administração se desejar.
+
+  * <img src="adds.png" />
+
+* Após a instalação do AD DS, clique em "Promover este servidor a um controlador de domínio" na notificação ou acesse isso através da guia "Gerenciar" no Server Manager.
+
+  * <img src="promote.png" />
+
+* Insira o nome do domínio raiz, escolha o nível funcional do domínio e da floresta e defina a senha do Modo de Restauração de Serviço.
+
+  * <img src="nforest.png" />
+
+* Revise as configurações, corrija qualquer problema e clique em "Instalar" para iniciar a promoção do servidor.
+
+  * <img src="user.png" /> 
+
 
 ## Configuração do Active Directory:
 
