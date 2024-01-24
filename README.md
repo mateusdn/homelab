@@ -109,7 +109,24 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * Revise as configurações, corrija qualquer problema e clique em "Instalar" para iniciar a promoção do servidor.
 
-  * <img src="user.png" /> 
+  * <img src="user.png" />
+
+* Você também pode promover um servidor local a controlador de domínio através do PowerShell com os seguintes comandos:
+
+* ` Import-Module ADDSDeployment `
+  ` Install -ADDSForest ` 
+  ` -CreateDnsDelegation:$false `
+  ` -DatabasePath "C:\Windows\NTDS" `
+  ` -DomainMode "winThreshold" `
+  ` -DomainName "server.homelab" `
+  ` -DomainNetbiosName "SERVER" `
+  ` -ForestMode "WinThreshold" `
+  ` -InstallDns:$true `
+  ` -LogPath "C:\Windows\NTDS" `
+  ` -NoRebootOnCompletion:$false ` 
+  ` -SysvolPath "C:\Windows\SYSVOL" `
+  ` -Force:$true `
+  
 
 ## Configuração do Active Directory:
 
