@@ -11,6 +11,9 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 * [DNS](#Instalação-e-Configuração-do-Windows-Server)
 
 ## Virtualização com Hyper-V:
+
+* O Hyper-V é uma plataforma de virtualização da Microsoft que permite a criação e gerenciamento de máquinas virtuais em servidores Windows, proporcionando eficiência, isolamento e flexibilidade de recursos.
+
 * Você pode baixar o Hyper-V através do PowerShell com permissões administrativas usando o comando:
   
   * `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All`
