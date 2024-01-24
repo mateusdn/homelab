@@ -91,6 +91,10 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 ### Configurando o Servidor Local a Controlador de Domínio
 
+* No Dashboard do Server Manager, clique em "Adicionar Funções e Recursos" e siga o assistente de instalação.
+
+* 
+
 ## Configuração do Active Directory:
 
 ## Implantação do Serviço DHCP:
