@@ -80,6 +80,12 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * <img src="ip.png" />
 
+### Atualizando com Windows Update
+
+* Manter o Server Manager atualizado é essencial para segurança, estabilidade e desempenho, com correções de segurança, melhorias e suporte a novos recursos, assegurando uma gestão eficiente da infraestrutura Windows.
+
+* <img src="upd.png" />
+
 ### Configurando o Servidor Local do Windows Server
 
 ## Configuração do Active Directory:
