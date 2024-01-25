@@ -198,5 +198,8 @@ As principais características de uma Unidade Organizacional são:
     
 ### Ingressando uma nova Máquina Virtual no domínio.
 
+* Será usada uma nova Máquina Virtual com Windows 10 para testar as configurações do Active Directory. Primeiro vamos precisar adiciona-la ao domínio "server.homelab".
+
+* <img src="w10vm.png" />
 
 ## Implantação do Serviço DHCP:
