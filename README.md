@@ -202,9 +202,17 @@ As principais características de uma Unidade Organizacional são:
 
 * <img src="w10vm.png" />
 
-* Primeiramente vamos seguir mesmos passos após a criação de outra Máquina Virtual:
+* Primeiramente vamos seguir os mesmos passos após a criação de outra Máquina Virtual:
   * Trocar o Nome do Computador
   * Alterar o Endereço IPv4
+    * <img src="ip4.png" />
   * Ingressar a Máquina no Domínio
+    * <img src="alt.png" />
+    * <img src="serv.png" />
 
+  * Após seguir esses passos, sua nova Máquina Virtual estará ingressada em seu Domínio
+    * <img src="bv.png" />
+   
+  * Ela automaticamente estará inserida dentro do seu Active Directory
+    * <img src="adw10.png" />
 ## Implantação do Serviço DHCP:
