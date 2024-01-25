@@ -164,6 +164,8 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * Uma Unidade Organizacional (OU), ou Organizational Unit em inglês, é um contêiner no Active Directory (AD) utilizado para organizar e gerenciar objetos, como usuários, grupos, computadores e outros recursos de forma lógica e hierárquica. As OUs proporcionam uma estrutura flexível para a administração de objetos no AD, permitindo a aplicação de políticas específicas e delegação de autoridade.
 
+  * <img src="ou.png" />
+
 As principais características de uma Unidade Organizacional são:
 
 * Hierarquia:
