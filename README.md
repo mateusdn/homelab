@@ -140,7 +140,7 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * Builtin:
 
-  * A pasta "Builtin" contém grupos predefinidos do sistema que fornecem permissões e direitos especiais em todo o domínio. Exemplos incluem grupos como "Administradores", "Usuários", "Operadores de Cópia de Sombra" etc.
+  * A pasta "Builtin" contém grupos predefinidos do sistema que fornecem permissões e direitos especiais em todo o domínio. Exemplos incluem grupos como "Administradores", "Usuários", etc.
   
 * Computers:
 
