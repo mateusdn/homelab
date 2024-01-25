@@ -136,7 +136,7 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * No Active Directory, as pastas são contêineres importantes para a organização de objetos e grupos dentro do diretório. Vamos explorar cada uma dessas pastas:
 
- * <img src="act.png" />
+   * <img src="act.png" />
 
 * Builtin:
 
