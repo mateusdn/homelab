@@ -6,20 +6,20 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * [Hyper-V](#Virtualização-com-Hyper-V)
   
-  * Virtualização
-  * Virtual Switches
-  * Criando e Configurando a VM
+  * Virtualização.
+  * Virtual Switches.
+  * Criando e Configurando a VM.
 * [Windows Server](#Instalação-e-Configuração-do-Windows-Server)
   
-  * Instalação e Configuração
-  * Configurando o IP
-  * Windows Update
-  * Controlador de Domínio
+  * Instalação e Configuração.
+  * Configurando o IP.
+  * Windows Update.
+  * Controlador de Domínio.
 * [Active Directory](#Configuração-do-Active-Directory)
   
-  * Configuração
-  * Unidades Organizacionais
-  * Ingressando uma nova VM ao domínio
+  * Configuração.
+  * Unidades Organizacionais.
+  * Ingressando uma nova VM ao domínio.
   
 ## Virtualização com Hyper-V:
 
