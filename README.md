@@ -160,4 +160,38 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
   * A pasta "Users" é onde os objetos de usuário são armazenados. Cada usuário no domínio é representado por um objeto dentro desta pasta. Esses objetos contêm informações como nome, senha, permissões e atributos adicionais do usuário.
 
+### Unidades Organizacionais
+
+* Uma Unidade Organizacional (OU), ou Organizational Unit em inglês, é um contêiner no Active Directory (AD) utilizado para organizar e gerenciar objetos, como usuários, grupos, computadores e outros recursos de forma lógica e hierárquica. As OUs proporcionam uma estrutura flexível para a administração de objetos no AD, permitindo a aplicação de políticas específicas e delegação de autoridade.
+
+As principais características de uma Unidade Organizacional são:
+
+* Hierarquia:
+
+  * As OUs podem ser organizadas em uma hierarquia, seguindo a estrutura organizacional da empresa. Isso facilita a administração e a localização de objetos.
+
+* Políticas Específicas:
+
+  * Políticas de Grupo (Group Policies) podem ser aplicadas em níveis específicos de OUs, permitindo a configuração de políticas específicas para grupos de objetos.
+ 
+* Delegação de Controle:
+
+  * É possível delegar a administração de uma OU para usuários ou grupos específicos, permitindo que determinadas pessoas tenham autoridade sobre objetos dentro dessa unidade sem afetar outras partes do domínio.
+
+* Administração Simplificada:
+
+  * Ao agrupar objetos relacionados em uma OU, a administração e a aplicação de políticas tornam-se mais eficientes e centralizadas.
+
+* Scoping de Pesquisas:
+
+  * Facilita a busca e a localização de objetos na rede, permitindo a realização de consultas e operações específicas em uma OU ou em um conjunto de OUs.
+
+* Segurança:
+
+  * A segurança pode ser controlada em níveis de OU, restringindo o acesso a objetos específicos dentro dessa unidade.
+
+* Aplicação de Herança:
+
+  * As OUs herdam configurações e políticas do nível superior, proporcionando consistência e facilitando a aplicação de configurações globais.
+
 ## Implantação do Serviço DHCP:
