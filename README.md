@@ -193,5 +193,8 @@ As principais características de uma Unidade Organizacional são:
 * Aplicação de Herança:
 
   * As OUs herdam configurações e políticas do nível superior, proporcionando consistência e facilitando a aplicação de configurações globais.
+    
+### Ingressando uma nova Máquina Virtual no domínio.
+
 
 ## Implantação do Serviço DHCP:
