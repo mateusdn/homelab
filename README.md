@@ -134,4 +134,28 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
   * <img src="uac.png" />
 
+* No Active Directory, as pastas são contêineres importantes para a organização de objetos e grupos dentro do diretório. Vamos explorar cada uma dessas pastas:
+
+ * <img src="uac.png" />
+
+* Builtin:
+
+  * A pasta "Builtin" contém grupos predefinidos do sistema que fornecem permissões e direitos especiais em todo o domínio. Exemplos incluem grupos como "Administradores", "Usuários", "Operadores de Cópia de Sombra" etc.
+  
+* Computers:
+
+  * A pasta "Computers" armazena objetos de computadores no domínio. Cada objeto representa uma máquina ou dispositivo integrado ao domínio.
+  
+* Domain Controllers:
+
+  * Nesta pasta, estão contidos objetos relacionados aos controladores de domínio. Cada controlador de domínio na rede terá um objeto associado aqui.
+  
+* ForeignSecurityPrincipals:
+
+  * Esta pasta mantém informações sobre objetos de segurança de domínios confiáveis externos. Por exemplo, quando um trust (relação de confiança) é estabelecido com outro domínio, os objetos de segurança desse domínio aparecem aqui.
+  
+* Users:
+
+  * A pasta "Users" é onde os objetos de usuário são armazenados. Cada usuário no domínio é representado por um objeto dentro desta pasta. Esses objetos contêm informações como nome, senha, permissões e atributos adicionais do usuário.
+
 ## Implantação do Serviço DHCP:
