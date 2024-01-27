@@ -230,3 +230,13 @@ As principais características de uma Unidade Organizacional são:
 ### Criando e Testando novos usuários no Active Directory
 
 * Dentro da VM Windows 10 vamos criar um exemplo dentro de uma Unidade Organizacional "Usuarios".
+  
+  * <img src="usuad.png" />
+    
+*  Dentro do Active Directory na pasta "Diretoria", vamos criar um usuário para testar dentro do servidor.
+
+  * <img src="login.png" />
+
+* Após a criação do usuário já é possivel acessa-lo através da VM.
+
+  * * <img src="usulog.png" /> 
