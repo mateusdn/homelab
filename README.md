@@ -20,6 +20,7 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
   * Configuração.
   * Unidades Organizacionais.
   * Ingressando uma nova VM ao domínio.
+  * Criação e teste de usuários no domínio.
   
 ## Virtualização com Hyper-V:
 
