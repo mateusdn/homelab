@@ -1,6 +1,6 @@
 # Windows Server 💻
 
-<a name="logo" href="https://www.artstation.com/matd2d"><img src="w-server.png" /></a>
+<a name="logo" href="https://www.artstation.com/matd2d"><img src="prints-ws/w-server.png" /></a>
 
 Esses componentes formam a base sólida para a infraestrutura de TI, proporcionando gerenciamento centralizado, distribuição dinâmica de endereços IP, virtualização e resoluções eficientes.
 
