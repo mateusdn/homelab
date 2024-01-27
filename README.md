@@ -34,12 +34,12 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
   
   * Meu Computador -> Propriedades -> Renomear este Computador -> Reinicie a máquina
   
-   * <img src="p-nome.png" />
+   * <img src="prints-ws/p-nome.png" />
  
 ### Comutadores Virtuais (Virtual Switches):
 * Eles permitem a comunicação entre maquinas virtuais e/ou com redes físicas, facilitando a criação e gerenciamento de redes virtuais em ambientes de virtualização.
 
-  * <img src="gcv.png" />
+  * <img src="prints-ws/gcv.png" />
   
 * Tipos de Comutadores:
   
@@ -53,7 +53,7 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 *  Você vai precisar de uma [ISO Windows Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver?wa=wsignin1.0)
 
-  * <img src="p-vm.png" />
+  * <img src="prints-ws/p-vm.png" />
 
 * Após criar uma máquina virtual no Hyper-V, você ainda pode ajustar várias configurações para atender às suas necessidades:
   
@@ -77,51 +77,51 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 ### Instalando o Windows Server
 
-  * <img src="wsi.png" />
+  * <img src="prints-ws/wsi.png" />
 
 * Após a instalação do sistema operacional, você terá acesso ao Gerenciador do Servidor.
 
   * O Gerenciador do Servidor é uma ferramenta que oferece uma interface centralizada para configurar, gerenciar e monitorar várias funções e recursos em um servidor. Ele facilita a administração do servidor, especialmente em ambientes onde múltiplas funções e serviços estão em execução.
 
-  * <img src="wsv.png" />
+  * <img src="prints-ws/wsv.png" />
 
 * Alterar o nome do servidor no Server Manager pode ser necessário para seguir padrões de nomenclatura, ajustar à reestruturação da rede, manter a consistência, resolver conflitos de nomes, atender a políticas de segurança e compliance, ou refletir mudanças na infraestrutura e hardware.
 
-* <img src="s-nome.png" />
+* <img src="prints-ws/s-nome.png" />
 
 ### Configurando o Ip da Máquina Virtual
 
 * A utilização de IPs fixos em máquinas virtuais proporciona estabilidade na configuração, facilita a identificação e a acessibilidade consistente, além de simplificar a administração, integração com redes locais e evitar conflitos de IP.
 
-  * <img src="ip.png" />
+  * <img src="prints-ws/ip.png" />
 
 ### Atualizando com Windows Update
 
 * Manter o Server Manager atualizado é essencial para segurança, estabilidade e desempenho, com correções de segurança, melhorias e suporte a novos recursos, assegurando uma gestão eficiente da infraestrutura Windows.
 
-  * <img src="upd.png" />
+  * <img src="prints-ws/upd.png" />
 
 ### Configurando o Servidor Local a Controlador de Domínio
 
 * No Dashboard do Server Manager, clique em "Adicionar Funções e Recursos" e siga o assistente de instalação.
 
-  * <img src="roles.png" />
+  * <img src="prints-ws/roles.png" />
 
 * Selecione "Serviços de Domínio Active Directory" e adicione as ferramentas de administração se desejar.
 
-  * <img src="adds.png" />
+  * <img src="prints-ws/adds.png" />
 
 * Após a instalação do AD DS, clique em "Promover este servidor a um controlador de domínio" na notificação ou acesse isso através da guia "Gerenciar" no Server Manager.
 
-  * <img src="promote.png" />
+  * <img src="prints-ws/promote.png" />
 
 * Insira o nome do domínio raiz, escolha o nível funcional do domínio e da floresta e defina a senha do Modo de Restauração de Serviço.
 
-  * <img src="nforest.png" />
+  * <img src="prints-ws/nforest.png" />
 
 * Revise as configurações, corrija qualquer problema e clique em "Instalar" para iniciar a promoção do servidor.
 
-  * <img src="user.png" />
+  * <img src="prints-ws/user.png" />
 
 * Você também pode promover um servidor local a controlador de domínio através do PowerShell com os seguintes comandos:
 
@@ -144,12 +144,12 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * O Active Directory é essencial para a administração centralizada de identidades, autenticação segura, aplicação de políticas, gestão de recursos e segurança em ambientes Windows, contribuindo para a eficiência e integridade da infraestrutura de TI. Você pode acessá-lo através dessas opções, dentro do Dashboard do Server Manager:
 
-  * <img src="uac.png" />
+  * <img src="prints-ws/uac.png" />
   
 
 * No Active Directory, as pastas são contêineres importantes para a organização de objetos e grupos dentro do diretório. Vamos explorar cada uma dessas pastas:
 
-   * <img src="act.png" />
+   * <img src="prints-ws/act.png" />
    
 
 * Builtin:
@@ -176,7 +176,7 @@ Esses componentes formam a base sólida para a infraestrutura de TI, proporciona
 
 * Uma Unidade Organizacional (OU), ou Organizational Unit em inglês, é um contêiner no Active Directory (AD) utilizado para organizar e gerenciar objetos, como usuários, grupos, computadores e outros recursos de forma lógica e hierárquica. As OUs proporcionam uma estrutura flexível para a administração de objetos no AD, permitindo a aplicação de políticas específicas e delegação de autoridade.
 
-  * <img src="ou.png" />
+  * <img src="prints-ws/ou.png" />
 
 As principais características de uma Unidade Organizacional são:
 
@@ -212,32 +212,36 @@ As principais características de uma Unidade Organizacional são:
 
 * Será usada uma nova Máquina Virtual com Windows 10 para testar as configurações do Active Directory. Primeiro vamos precisar adiciona-la ao domínio "server.homelab".
 
-* <img src="w10vm.png" />
+* <img src="prints-ws/w10vm.png" />
 
 * Primeiramente vamos seguir os mesmos passos após a criação de outra Máquina Virtual:
   * Trocar o Nome do Computador
   * Alterar o Endereço IPv4
-    * <img src="ip4.png" />
+    * <img src="prints-ws/ip4.png" />
   * Ingressar a Máquina no Domínio
-    * <img src="alt.png" />
-    * <img src="serv.png" />
+    * <img src="prints-ws/alt.png" />
+    * <img src="prints-ws/serv.png" />
 
   * Após seguir esses passos, sua nova Máquina Virtual estará ingressada em seu Domínio
-    * <img src="bv.png" />
+    * <img src="prints-ws/bv.png" />
    
   * Ela automaticamente estará inserida dentro do seu Active Directory
-    * <img src="adw10.png" />
+    * <img src="prints-ws/adw10.png" />
     
 ### Criando e Testando novos usuários no Active Directory
 
 * Dentro da VM Windows 10 vamos criar um exemplo dentro de uma Unidade Organizacional "Usuarios".
   
-  * <img src="usuad.png" />
+  * <img src="prints-ws/usuad.png" />
     
 *  Dentro do Active Directory na pasta "Diretoria", vamos criar um usuário para testar dentro do servidor.
 
-  * <img src="login.png" />
+  * <img src="prints-ws/login.png" />
 
 * Após a criação do usuário já é possivel acessa-lo através da VM.
 
-  * * <img src="usulog.png" /> 
+  * <img src="prints-ws/usulog.png" />
+   
+* Também posso cadastrar diversos tipos de dados referentes ao usuário dentro das propriedades do Active Directory.
+
+  * <img src="prints-ws/prop.png" />
