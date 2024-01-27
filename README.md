@@ -228,3 +228,5 @@ As principais características de uma Unidade Organizacional são:
     * <img src="adw10.png" />
     
 ### Criando e Testando novos usuários no Active Directory
+
+* Dentro da VM Windows 10 vamos criar um exemplo dentro de uma Unidade Organizacional "Usuarios".
